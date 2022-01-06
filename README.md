@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caromrod
 - 👀 I’m interested in music, art,  books
-- 🌱 I’m currently learning C# and english
+- 🌱 I’m currently learning mysql and english
 - 📫 you can contact me linkedin 
 
 <!---
